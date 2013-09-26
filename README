@@ -2,7 +2,7 @@ This is a Google Chrome extension which adds buttons in the lists of monuments o
 
 Uses localStorage to remember the last coordinates saved.
 
-Available on Chrome Web Store:
+Available on Chrome Web Store: https://chrome.google.com/webstore/detail/add-monument-coordinates/pdpjofojlbfpjbbkihphellnjecdbplc
 
 Known issue: saving the page takes too long.
 
