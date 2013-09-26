@@ -1,0 +1,10 @@
+This is a Google Chrome extension which adds buttons in the lists of monuments of Armenia in hy.wikipedia.org so the editors can insert geographical coordinates of the monuments using Google Maps.
+
+Uses localStorage to remember the last coordinates saved.
+
+Available on Chrome Web Store:
+
+Known issue: saving the page takes too long.
+
+License: public domain.
+This file was modified by JetBrains PhpStorm 6.0.3 for binding GitHub repository
